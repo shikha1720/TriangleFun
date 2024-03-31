@@ -1,0 +1,28 @@
+.box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin: 5rem;
+    flex-wrap: nowrap;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #9BB0C1;
+    background-color: #9BB0C1;
+    border-radius: .5rem;
+    height: 5rem;
+    width: 5rem;
+    padding:2rem;
+    margin:1rem;
+    font-size: 1.2rem;
+}
+
+.box:hover {
+    box-shadow: 0 .3rem .5rem 0;
+    background-color: #7c91a2;
+    font-size: 1.4rem;
+}

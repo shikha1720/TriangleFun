@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://wallpaperonline.co.za/wp-content/uploads/2022/01/330508536.png');
+  background-size:contain;
 }
 
 code {

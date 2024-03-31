@@ -1,0 +1,17 @@
+.head {
+    box-sizing: border-box;
+    background-color: hsl(200, 31%, 46%);
+    min-height: 4rem;
+    font-size: 2rem;
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    letter-spacing: .02rem;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color:aliceblue;
+}
+
+.head-text {
+    max-width: 800px;
+    margin:auto;
+}
